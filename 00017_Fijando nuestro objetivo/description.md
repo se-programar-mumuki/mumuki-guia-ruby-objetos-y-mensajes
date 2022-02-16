@@ -5,6 +5,6 @@ El paradigma de programación con objetos o programación _orientada a_ objetos 
 Estos objetos pueden ser _cualquier_ cosa, :racehorse::grin::person_doing_cartwheel::airplane_small::sob::salad: material o abstracta:
 Un objeto es cualquier entidad que pueda hacer algo por nosotros para resolver un problema.
 
-Lo importante es que estos objetos viven dentro de un mismo mundo y cada uno de ellos va a tener distintas responsabilidades. Por ejemplo: si en nuestro problema hay aves que vuelan y comen, vamos a tener objetos a los que les podemos decir “volá” y “comé” :bird:. Además estos objetos van a poder comunicarse entre ellos mandándose mensajes.
+Lo importante es que estos objetos viven dentro de un mismo mundo y cada uno de ellos va a tener distintas responsabilidades. Por ejemplo: si en nuestro problema hay aves :bird: que vuelan y comen, vamos a tener objetos a los que les podemos decir “volá” y “comé”. Además estos objetos van a poder comunicarse entre ellos mandándose mensajes.
 
 Para aprender a hacer todo esto, vamos a utilizar un lenguaje llamado Ruby.
